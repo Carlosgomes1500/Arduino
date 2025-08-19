@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=pMN0YxY-r7U
+http://www.bristolwatch.com/picaxe/74hc164_demo.htm
+https://playground2014.wordpress.com/arduino/74hc164-cascade/
+https://www.arduino.cc/en/Reference/ShiftOut

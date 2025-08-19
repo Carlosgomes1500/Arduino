@@ -1,0 +1,5 @@
+https://www.robocore.net/tutoriais/comunicacao-entre-arduinos-i2c-parte1.html
+
+https://www.robocore.net/tutoriais/60.html
+
+http://www.arduinobr.com/arduino/i2c-protocolo-de-comunicacao/
